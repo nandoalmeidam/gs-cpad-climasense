@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565445458255",
+    "project_id": "climasense-gs26-b27e91",
+    "storage_bucket": "climasense-gs26-b27e91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565445458255:android:18f67e6ceb5fc402682d3a",
+        "android_client_info": {
+          "package_name": "br.com.fiap.climasense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwCcsJj604rn6BHbsNHm5EVM3Tz_14EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
