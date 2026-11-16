@@ -306,7 +306,7 @@ A **versão 1.2.2** reúne as funcionalidades de clima, radar, histórico de pre
 ### Links do projeto
 
 - **Repositório e código-fonte:** [ClimaSense no GitHub](https://github.com/nandoalmeidam/gs-cpad-climasense)
-- **APK Android:** [`dist/climasense-v1.2.2.apk`](dist/climasense-v1.2.2.apk)
+- **APK Android:** [Baixar ClimaSense v1.2.2](https://github.com/nandoalmeidam/gs-cpad-climasense/releases/download/v1.2.2/climasense-v1.2.2.apk)
 - **Capturas de tela:** [`assets/screenshots/`](assets/screenshots/)
 
 O projeto foi desenvolvido para fins acadêmicos, com foco em consulta meteorológica, registro pessoal de ocorrências e apoio à interpretação de dados climáticos. Os sinais de atenção apresentados são educativos e não substituem comunicados oficiais.
